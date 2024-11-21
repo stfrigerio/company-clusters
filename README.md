@@ -1,12 +1,12 @@
 # Company Clusterer
 
-A Python-based tool for analyzing and clustering biotech companies based on their business descriptions using natural language processing and machine learning techniques.
+A Python-based tool for analyzing and clustering companies based on their business descriptions using natural language processing and machine learning techniques.
 
 ## Overview
 
-This project analyzes biotech companies by:
+This project analyzes companies by:
 1. Processing company descriptions and metadata
-2. Creating semantic embeddings of company descriptions
+2. Creating semantic embeddings of company information
 3. Clustering similar companies together
 4. Generating cluster descriptions using GPT-4
 5. Visualizing the results in an interactive plot
