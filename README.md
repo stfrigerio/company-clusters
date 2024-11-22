@@ -29,5 +29,6 @@ This project analyzes companies by:
 5. Run the script
 
 
-Example Output:
-<img src="./example_figure.png" alt="Example output" width=300>
+Example Output:<br/>
+
+<img src="./example_figure.png" alt="Example output" width=100%>
