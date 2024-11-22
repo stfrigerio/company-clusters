@@ -27,3 +27,7 @@ This project analyzes companies by:
 4. Create a `.env` file with the following variables:
     - `OPENAI_API_KEY`: Your OpenAI API key
 5. Run the script
+
+
+Example Output:
+<img src="./example_figure.png" alt="Example output" width=300>
